@@ -1,0 +1,927 @@
+Kecamatan,Node_Awal,Node_Akhir,Nama_Ruas,Cost,Kondisi
+banyumanik,A1,A2,Jl. Gombel Lama,1271.0,Baik
+banyumanik,A2,A3,Jl. Gaharu Utara,234.0,Sedang
+banyumanik,A2,A6,Jl. Tanjung Sari 1,218.0,Sedang
+banyumanik,A2,A8,Jl. Tanjung Sari,401.0,Sedang
+banyumanik,A2,A4,Jl. Ngesrep Timur 6,451.0,Sedang
+banyumanik,A3,A5,Jl. Gombel Indah,321.0,Sedang
+banyumanik,A6,A5,Jl. Jatingaleh 1,569.0,Sedang
+banyumanik,A6,A11,Jl. Jatingaleh 2,283.0,Baik
+banyumanik,A6,A7,Jl. Ngesrep Barat 3,608.0,Sedang
+banyumanik,A7,A12,Jl. Jati Utara,169.0,Baik
+banyumanik,A7 ,A13,Jl. Durian Selatan,455.0,Baik
+banyumanik,A7,A14,Jl. Jati,1079.0,Sedang
+banyumanik,A7,A8,Jl. Rumpun Diponegoro,708.0,Sedang
+banyumanik,A8 ,A15,Jl. Rasamala,563.0,Baik
+banyumanik,A8 ,A9,Jl. Durian Selatan 2,371.0,Sedang
+banyumanik,A4,A9,Jl. Nusa Indah,496.0,Baik
+banyumanik,A9,A16,Jl. Kalipepe 1,392.0,Baik
+banyumanik,A16,A15,Jl. Kalipepe,475.0,Baik
+banyumanik,A16,A17,Jl. Muteran,1091.0,Sedang
+banyumanik,A17,A27,Jl. Setuk,517.0,Sedang
+banyumanik,A27,A26,Jl. Potrosari Tengah,617.0,Sedang
+banyumanik,A15,A14,Jl. Potrosari 3,261.0,Sedang
+banyumanik,A15,A26,Jl. Potrosari Lapangan,444.0,Sedang
+banyumanik,A26,A36,Jl. Nangka,437.0,Baik
+banyumanik,A36,A37,Jl. Grafika,1139.0,Baik
+banyumanik,A36,A50,Jl. Karangrejo,114.0,Baik
+banyumanik,A36,A35,Jl. Durian,1896.0,Baik
+banyumanik,A50,A49,Jl. Gaharu,654.0,Baik
+banyumanik,A35,A49,Jl. Kruing,525.0,Rusak Ringan
+banyumanik,A49,A60,Jl. Meranti,667.0,Baik
+banyumanik,A49,A48,Jl. Sukun,682.0,Baik
+banyumanik,A14,A25,Jl. Bumirejo,1575.0,Sedang
+banyumanik,A25,A35,Jl. Payung Mas,811.0,Baik
+banyumanik,A25,A24,Jl. Ngasem,1084.0,Sedang
+banyumanik,A25,A34,Jl. Kyai Mojo 1,1766.0,Sedang
+banyumanik,A48,A46,Jl. Kyai Mojo,829.0,Sedang
+banyumanik,A34,A47,Jl. Gotong Royong,1376.0,Rusak Ringan
+banyumanik,A47,A45,Jl. Kp. Pentul 1,219.0,Sedang
+banyumanik,A47,A46,Jl. Potrosari BD,429.0,Sedang
+banyumanik,A45,A32,Jl. Rasamala Timur,123.0,Sedang
+banyumanik,A45,A44,Jl. Blimbing,458.0,Sedang
+banyumanik,A44,A58,Jl. Murbei Timur,180.0,Sedang
+banyumanik,A44,A42,Jl. Murbei,723.0,Sedang
+banyumanik,A46,A59,Jl. Sendang Pentul,364.0,Sedang
+banyumanik,A34,A33,Jl. Potrosari 2,214.0,Sedang
+banyumanik,A24,A23,Jl. Ace,420.0,Baik
+banyumanik,A24,A33,Jl. Kalipepe 4,802.0,Baik
+banyumanik,A13,A23,Jl. Taman Teuku Umar,715.0,Sedang
+banyumanik,A23,A31,Jl. Jambu,278.0,Sedang
+banyumanik,A23,A33,Jl. H. Suradi,706.0,Baik
+banyumanik,A33,A32,Jl. Kanfer Utara,168.0,Baik
+banyumanik,A32,A41,Jl. Trunojoyo,332.0,Baik
+banyumanik,A32,A44,Jl. Kalijaten,656.0,Baik
+banyumanik,A41,A42,Jl. Ulin Utara,69.0,Sedang
+banyumanik,A42,A55,Jl. Sawunggaling 5,294.0,Baik
+banyumanik,A42,A43,Jl. Mulawarman 2,413.0,Baik
+banyumanik,A43,A57,Jl. Waru Timur 1,430.0,Sedang
+banyumanik,A43,A56,Jl. Sawunggaling 4,293.0,Baik
+banyumanik,A55,A56,Jl. Durian Utara 2,416.0,Baik
+banyumanik,A55,A54,Jl. Bukit Raya,1791.0,Baik
+banyumanik,A12,A21,Jl. Bukit Kusuma,402.0,Sedang
+banyumanik,A12,A22,Jl. Ngesrep Timur 2,253.0,Sedang
+banyumanik,A22,A25,Jl. Ngesrep Timur 4,359.0,Sedang
+banyumanik,A5,A10,Jl. Ngesrep Timur 3,231.0,Sedang
+banyumanik,A10,A19,Jl. Ngesrep Timur Dalam 3,137.0,Sedang
+banyumanik,A19,A18,Jl. Bukit Umbul,413.0,Baik
+banyumanik,A19,A28,Jl. Jangli Boulevard,185.0,Sedang
+banyumanik,A11,A19,Jl. Sapta Marga,447.0,Baik
+banyumanik,A11,A20,Jl. Merbau,611.0,Baik
+banyumanik,A21,A30,Jl. Tusam Timur,551.0,Sedang
+banyumanik,A22,A30,Jl. Waru,236.0,Sedang
+banyumanik,A31,A30,Jl. Tirto Agung,1318.0,Baik
+banyumanik,A31,A40,Jl. Kanfer,612.0,Baik
+banyumanik,A31,A53,Jl. Banjarsari Selatan,676.0,Sedang
+banyumanik,A30,A40,Jl. Tusam,719.0,Sedang
+banyumanik,A30,A39,Jl. Jatimulyo,626.0,Baik
+banyumanik,A30,A29,Jl. Jatiluhur 1,679.0,Sedang
+banyumanik,A40,A39,Jl. Suren,433.0,Sedang
+banyumanik,A29,A38,Jl. Gedawang,787.0,Baik
+banyumanik,A38,A39,Jl. Puri Asri Perdana,466.0,Baik
+banyumanik,A39,A51,Jl. Grafika Utama,484.0,Sedang
+banyumanik,A39,A52,Jl. Sapta Prasetya,164.0,Baik
+banyumanik,A51,A52,Jl. Rengas,264.0,Baik
+banyumanik,A18,A61,Jl. Ulin,262.0,Sedang
+banyumanik,A28,A61,Jl. Sawunggaling,247.0,Baik
+banyumanik,A38,A62,Jl. Waru Timur,377.0,Sedang
+banyumanik,A51,A62,Jl. Tirto Husodo Barat 1,167.0,Baik
+banyumanik,A52,A63,Jl. Srondol Bumi Indah,200.0,Sedang
+banyumanik,A63,A64,Jl. Ngesrep Timur Dalam 2,231.0,Sedang
+banyumanik,A53,A54,Jl. Klentengsari,758.0,Baik
+banyumanik,A53,A64,Jl. Tanjung Sari 2,299.0,Sedang
+banyumanik,A54,A65,Jl. Tanjung Sari 4,338.0,Sedang
+banyumanik,A56,A65,Jl. Jrobang,561.0,Baik
+banyumanik,A57,A65,Jl. Jangli Perbalan,323.0,Baik
+banyumanik,A57,A66,Jl. Tanjung Sari 3,228.0,Sedang
+banyumanik,A58,A66,Jl. Mulawarman 1,340.0,Baik
+banyumanik,A57,A71,Jl. Watu Kaji,1137.0,Sedang
+banyumanik,A71,A65,Jl. Jatiluhur,452.0,Sedang
+banyumanik,A71,A72,Jl. Cemara,727.0,Baik
+banyumanik,A72,A65,Jl. Taman Setia Budi,194.0,Sedang
+banyumanik,A66,A70,Jl. Damar,534.0,Baik
+banyumanik,A59,A70,Jl. Empu Sendok,1611.0,Baik
+banyumanik,A59,A48,Jl. Potrosari 1,301.0,Baik
+banyumanik,A70,A69,Jl. Pramuka,2351.0,Baik
+banyumanik,A48,A67,Jl. Sawunggaling Selatan,366.0,Sedang
+banyumanik,A67,A69,Jl. Sendang Pakel,347.0,Sedang
+banyumanik,A48,A60,Jl. Wisma Prasetya,269.0,Baik
+banyumanik,A60,A68,Jl. Tirto Husodo Timur,404.0,Sedang
+banyumanik,A48,A59,Jl. Tembalang Selatan,196.0,Sedang
+candisari,B1,B2,Jl. Sisimangaraja,2384.0,Baik
+candisari,B2,B3,Jl. Kawi,1167.0,Sedang
+candisari,B2,B8,Jl. Wilis,923.0,Baik
+candisari,B2,B7,Jl. Sriwijaya,1736.0,Baik
+candisari,B3,B4,Jl. Kagok,240.0,Sedang
+candisari,B3,B5,Jl. Kawi 1,914.0,Baik
+candisari,B4,B7,Jl. Ungaran,144.0,Sedang
+candisari,B7,B11,Jl. Dr. Wahidin Dalam,346.0,Sedang
+candisari,B5,B6,Jl. Kesatrian RW. 07,810.0,Sedang
+candisari,B5,B14,Jl. Genuk Sari,271.0,Sedang
+candisari,B5,B12,Jl. Cinde,483.0,Baik
+candisari,B14,B13,Jl. Cinde Barat 7,130.0,Sedang
+candisari,B14,B16,Jl. Cinde Barat 9,518.0,Sedang
+candisari,B14,B15,Jl. Cinde Selatan,420.0,Sedang
+candisari,B6,B15,Jl. Tandang,542.0,Baik
+candisari,B13,B17,Jl. Jangli,1631.0,Sedang
+candisari,B13,B12,Jl. Kasipah,1631.0,Baik
+candisari,B8,B11,Jl. Tegalsari,696.0,Sedang
+candisari,B12,B11,Jl. Tentara Pelajar,102.0,Baik
+candisari,B12,B10,Jl. Cinde Barat 5,23.0,Sedang
+candisari,B12,B18,Jl. Singotoro,641.0,Baik
+candisari,B17,B16,Jl. Diponegoro,1593.0,Baik
+candisari,B17,B28,Jl. Telomoyo,218.0,Baik
+candisari,B17,B26,Jl. Tambora,430.0,Sedang
+candisari,B15,B28,Jl. Tabanan,227.0,Sedang
+candisari,B28,B27,Jl. Jatingaleh 3,790.0,Sedang
+candisari,B26,B27,Jl. Sanggung Barat,129.0,Baik
+candisari,B27,B25,Jl. Candi Golf Boulevard,893.0,Sedang
+gajahmungkur,C1,C2,Jl. Kelud,1859.0,Baik
+gajahmungkur,C2,C5,Jl. Pawiyatan Luhur,2736.0,Baik
+gajahmungkur,C2,C7,Jl. Kendeng,1275.0,Sedang
+gajahmungkur,C2,C3,Jl. Menoreh,1637.0,Baik
+gajahmungkur,C2,C4,Jl. Watu Lawang 4,1202.0,Baik
+gajahmungkur,C2,C9,Jl. Veteran,1107.0,Baik
+gajahmungkur,C3,C31,Jl. Jatidiri,835.0,Baik
+gajahmungkur,C4,C30,Jl. Dempo,574.0,Baik
+gajahmungkur,C4,C29,Jl. Gubernur Budiono,302.0,Sedang
+gajahmungkur,C5,C29,Jl. Lamongan,811.0,Baik
+gajahmungkur,C5,C26,Jl. Tumpang,1159.0,Baik
+gajahmungkur,C5,C6,Jl. Semeru,775.0,Baik
+gajahmungkur,C7,C6,Jl. Rajabasa,425.0,Baik
+gajahmungkur,C7,C8,Jl. Argopuro,946.0,Sedang
+gajahmungkur,C9,C10,Jl. Lempongsari Barat 3,108.0,Baik
+gajahmungkur,C9,C11,Jl. Lempongsari Barat,222.0,Baik
+gajahmungkur,C9,C8,Jl. Lempongsari 1,701.0,Baik
+gajahmungkur,C11,C12,Jl. Kesambi,191.0,Sedang
+gajahmungkur,C8,C13,Jl. Malabar,258.0,Baik
+gajahmungkur,C8,C14,Jl. Raung,542.0,Baik
+gajahmungkur,C12,C13,Jl. Slamet,623.0,Sedang
+gajahmungkur,C13,C14,Jl. Guntur,540.0,Baik
+gajahmungkur,C14,C15,Jl. Lempongsari,553.0,Baik
+gajahmungkur,C14,C17,Jl. Dieng,254.0,Baik
+gajahmungkur,C15,C16,Jl. Sumbing,867.0,Sedang
+gajahmungkur,C17,C16,Jl. Sindoro,186.0,Sedang
+gajahmungkur,C17,C18,Jl. Gunung Sawo,517.0,Sedang
+gajahmungkur,C17,C19,Jl. Merapi,484.0,Baik
+gajahmungkur,C19,C20,Jl. Gajahmungkur Selatan,696.0,Sedang
+gajahmungkur,C18,C21,Jl. Taman Gajahmungkur,425.0,Baik
+gajahmungkur,C18,C20,Jl. Tugu Suharto,217.0,Baik
+gajahmungkur,C6,C22,Jl. Wungkal,527.0,Baik
+gajahmungkur,C22,C23,Jl. Karangrejo,1075.0,Baik
+gajahmungkur,C22,C25,Jl. Lawu,186.0,Sedang
+gajahmungkur,C23,C24,Jl. Taman Diponegoro,373.0,Baik
+gajahmungkur,C31,C30,Jl. Telaga Bodas,1065.0,Sedang
+gajahmungkur,C30,C28,Jl. Rinjani,1685.0,Sedang
+gajahmungkur,C29,C28,Jl. Semboja,607.0,Baik
+gajahmungkur,C29,C27,Jl. Muria,257.0,Baik
+gajahmungkur,C26,C27,Jl. Indrapura,530.0,Sedang
+gajahmungkur,C26,C25,Jl. Papandayan,164.0,Baik
+gayamsari,D1,D2,Jl. Sawah Besar,2458.0,Baik
+gayamsari,D2,D3,Jl. Tanggungrejo,1175.0,Baik
+gayamsari,D2,D4,Jl. Gajah,2522.0,Baik
+gayamsari,D2,D5,Jl. Medoho Permai,464.0,Sedang
+gayamsari,D3,D6,Jl. Jolotundo,745.0,Baik
+gayamsari,D4,D7,Jl. Gempolsari 3,977.0,Sedang
+gayamsari,D4,D8,Jl. Gayamsari 1,217.0,Sedang
+gayamsari,D5,D9,Jl. Badak 5,696.0,Baik
+gayamsari,D6,D9,Jl. Kelinci,541.0,Sedang
+gayamsari,D6,D10,Jl. Kijang Utara,307.0,Sedang
+gayamsari,D7,D10,Jl. Medoho,742.0,Baik
+gayamsari,D7,D11,Jl. Kanguru,1033.0,Sedang
+gayamsari,D8,D11,Jl. Tambakboyo,765.0,Baik
+gayamsari,D9,D12,Jl. Tambakan,521.0,Sedang
+gayamsari,D10,D12,Jl. Unta,2772.0,Baik
+gayamsari,D10,D11,Jl. Tanggul,790.0,Baik
+gayamsari,D12,D16,Jl. Badak,482.0,Baik
+gayamsari,D11,D13,Jl. Banteng,581.0,Baik
+gayamsari,D13,D15,Jl. Gajah Timur 4,295.0,Sedang
+gayamsari,D10,D14,Jl. Beruang,739.0,Baik
+gayamsari,D12,D14,Jl. Kijang Selatan,363.0,Baik
+gayamsari,D14,D16,Jl. Slamet Riyadi,989.0,Baik
+gayamsari,D15,D14,Jl. Pati Unus 7,309.0,Sedang
+gayamsari,D10,D15,Jl. Medoho 1,1122.0,Baik
+genuk,E1,E2,Jl. Wolter Monginsidi,7922.0,Baik
+genuk,E2,E3,Jl. Muktiharjo,4035.0,Baik
+genuk,E2,E4,Jl. Kyai Ahmad,4035.0,Baik
+genuk,E2,E5,Jl. Ki Senari,1878.0,Baik
+genuk,E2,E6,Jl. Ratan Cilik,1901.0,Sedang
+genuk,E2,E3,Jl. Kudu,2433.0,Baik
+genuk,E3,E7,Jl. Sedayu Tugu,3073.0,Sedang
+genuk,E3,E4,Jl. Terboyo,1345.0,Sedang
+genuk,E4,E8,Jl. Sendang Indah,324.0,Baik
+genuk,E4,E5,Jl. Dong Biru,1074.0,Baik
+genuk,E5,E9,Jl. Trimulyo,621.0,Sedang
+genuk,E5,E10,Jl. Jempono,714.0,Baik
+genuk,E6,E11,Jl. Widuri 3,793.0,Baik
+genuk,E6,E7,Jl. Bugen Polaman,788.0,Baik
+genuk,E7,E12,Jl. Padi Tengah,448.0,Baik
+genuk,E7,E8,Jl. Kapas Tengah,501.0,Baik
+genuk,E8,E13,Jl. Kapas,603.0,Baik
+genuk,E8,E9,Jl. Gebanganom,1603.0,Baik
+genuk,E9,E14,Jl. K.H. Zainuddin,2235.0,Baik
+genuk,E9,E10,Jl. Sedayu Sawo 1,572.0,Baik
+genuk,E10,E15,Jl. Banget Prasetya,235.0,Baik
+genuk,E10,E21,Jl. Sembungharjo Masjid Lama,717.0,Baik
+genuk,E21,E22,Jl. Sumur Adem,1033.0,Baik
+genuk,E21,E24,Jl. Widuri 1,653.0,Sedang
+genuk,E11,E16,Jl. Widuri 2,626.0,Baik
+genuk,E11,E12,Jl. Sembungharjo,276.0,Baik
+genuk,E12,E17,Jl. Sedayu Sawo,615.0,Sedang
+genuk,E12,E13,Jl. Kapas Utara,213.0,Baik
+genuk,E13,E18,Jl. Kudu Baru,1181.0,Sedang
+genuk,E13,E14,Jl. Padi,1505.0,Baik
+genuk,E14,E19,Jl. TPU Banjardowo,366.0,Baik
+genuk,E14,E15,Jl. Saleh,351.0,Baik
+genuk,E15,E20,Jl. Widuri,328.0,Baik
+genuk,E15,E22,Jl. Sapi Watu,460.0,Baik
+genuk,E22,E23,Jl. Banget Prasetya 4,180.0,Baik
+genuk,E22,E25,Jl. Bangetayu Wetan,4827.0,Baik
+genuk,E24,E25,Jl. Widuri Krajan,362.0,Sedang
+genuk,E16,E27,Jl. Wolter Monginsidi Lama,401.0,Baik
+gunungpati,F1,F2,Jl. Mangunsari,2183.0,Sedang
+gunungpati,F2,F3,Jl. Salakan,613.0,Sedang
+gunungpati,F2,F4,Jl. Cepoko 3,715.0,Baik
+gunungpati,F4,F5,Jl. Muntal,2965.0,Baik
+gunungpati,F5,F6,Jl. Siwogo,1587.0,Sedang
+gunungpati,F3,F7,Jl. Plalangan,3408.0,Sedang
+gunungpati,F7,F8,Jl. Kol. R. Warsito,977.0,Baik
+gunungpati,F8,F9,Jl. Randusari,1757.0,Sedang
+gunungpati,F9,F10,Jl. Morokono,148.0,Sedang
+gunungpati,F10,F11,Jl. Jedung,1258.0,Baik
+gunungpati,F11,F12,Jl. Jatirejo,1176.0,Sedang
+gunungpati,F6,F13,Jl. Cepoko 1,230.0,Baik
+gunungpati,F13,F14,Jl. Cerme 2,260.0,Baik
+gunungpati,F14,F15,Jl. SIbayan,501.0,Baik
+gunungpati,F5,F16,Jl. Kyai Sudak,525.0,Baik
+gunungpati,F15,F17,Jl. Jedung Utara,712.0,Baik
+gunungpati,F17,F18,Jl. Pongangan,1387.0,Sedang
+gunungpati,F18,F19,Jl. Talun Kacang,1183.0,Sedang
+gunungpati,F19,F20,Jl. Pengkol,1103.0,Sedang
+gunungpati,F20,F21,Jl. Bendosari,788.0,Rusak Ringan
+gunungpati,F21,F22,Jl. Gribig,562.0,Sedang
+gunungpati,F22,F23,Jl. Kalialang Lama,680.0,Sedang
+gunungpati,F23,F24,Jl. Cepoko 2,223.0,Baik
+gunungpati,F23,F25,Jl. Kliwonan Selatan,112.0,Baik
+gunungpati,F25,F26,Jl. Kolonel H. R. Hadijanto,4649.0,Baik
+gunungpati,F26,F27,Jl. Mr. Koesoebiyono Tjondro Wibowo,6472.0,Baik
+gunungpati,F26,F28,Jl. Sumur Gunung,1085.0,Sedang
+gunungpati,F28,F29,Jl. Dampyak,883.0,Sedang
+gunungpati,F29,F30,Jl. Perbalan,409.0,Sedang
+gunungpati,F30,F31,Jl. Sumur Jurang,358.0,Sedang
+gunungpati,F31,F32,Jl. Mudal,603.0,Sedang
+gunungpati,F32,F33,Jl. Pakintelan Baru,1068.0,Sedang
+gunungpati,F32,F34,Jl. Ampel Gading,2258.0,Baik
+gunungpati,F34,F35,Jl. Kalisegoro,1586.0,Baik
+gunungpati,F35,F36,Jl. Kyai Bancak,862.0,Baik
+gunungpati,F36,F37,Jl. Taman Siswa,1873.0,Baik
+gunungpati,F35,F38,Jl. Kalisegoro 1,501.0,Baik
+gunungpati,F38,F39,Jl. Sengkuyung,124.0,Sedang
+gunungpati,F39,F40,Jl. Bangkong,1758.0,Sedang
+gunungpati,F39,F41,Jl. Tinjomoyo,1906.0,Sedang
+gunungpati,F41,F42,Jl. Talang Bengkok,615.0,Baik
+gunungpati,F42,F43,Jl. Sikrangkeng,518.0,Sedang
+gunungpati,F43,F44,Jl. Ampel Gading 3,2022.0,Sedang
+gunungpati,F44,F45,Jl. Pakintelan,26.0,Sedang
+gunungpati,F45,F46,Jl. Watusari,128.0,Sedang
+gunungpati,F46,F47,Jl. Sekar Gading Barat,743.0,Sedang
+gunungpati,F47,F48,Jl. Sekalongan,125.0,Baik
+gunungpati,F48,F49,Jl. Cepoko,3096.0,Baik
+gunungpati,F49,F50,Jl. Jedung Timur,1255.0,Sedang
+gunungpati,F50,F51,Jl. Dewi Sartika,171.0,Sedang
+gunungpati,F51,F52,Jl. Kliwonan Utara,309.0,Baik
+gunungpati,F52,F53,Jl. Masjid,98.0,Baik
+gunungpati,F53,F54,Jl. Kandri Barat,11.0,Baik
+gunungpati,F54,F55,Jl. Sikuwuk,1056.0,Sedang
+gunungpati,F55,F56,Jl. Dukuh,1796.0,Sedang
+gunungpati,F56,F57,Jl. Nongko Sawit,1403.0,Sedang
+mijen,G1,G2,Jl. Kuripan,2922.0,Baik
+mijen,G2,G3,Jl. Amarta,1618.0,Sedang
+mijen,G2,G4,Jl. Kongkong,2083.0,Baik
+mijen,G2,G5,Jl. Dawung,1386.0,Sedang
+mijen,G2,G3,Jl. Sidodadi,1211.0,Baik
+mijen,G3,G6,Jl. Duduhan,834.0,Rusak Ringan
+mijen,G3,G7,Jl. Kali Getas,1783.0,Baik
+mijen,G4,G8,Jl. Sodong,1568.0,Rusak Ringan
+mijen,G4,G9,Jl. Jatibarang,5759.0,Baik
+mijen,G5,G6,Jl. Wonolopo,1772.0,Sedang
+mijen,G5,G10,Jl. Gabu,2206.0,Sedang
+mijen,G6,G11,Jl. Perkebunan Pesantren,3418.0,Rusak Ringan
+mijen,G7,G11,Jl. Bubakan Kliris,1624.0,Sedang
+mijen,G7,G12,Jl. Karangmalang,1673.0,Rusak Ringan
+mijen,G7,G8,Jl. Robyong,3049.0,Baik
+mijen,G8,G13,Jl. Purwosari,2422.0,Baik
+mijen,G8,G9,Jl. Kyai Aji,1712.0,Rusak Ringan
+mijen,G10,G11,Jl. Jatisari,1605.0,Rusak Ringan
+mijen,G10,G15,Jl. Wonolopo 1,818.0,Sedang
+mijen,G11,G12,Jl. Robyong 1,604.0,Baik
+mijen,G12,G13,Jl. Jatikalangan,1473.0,Baik
+mijen,G9,G14,Jl. Kedung Jangan,1352.0,Rusak Ringan
+mijen,G13,G14,Jl. Kebonroto,1678.0,Sedang
+mijen,G13,G16,Jl. R.M. Hadi Subeno Sosrowardoyo,10006.0,Baik
+mijen,G16,G15,Jl. Kemantren,2931.0,Rusak Ringan
+mijen,G14,G16,Jl. Untung Suropati,3875.0,Baik
+ngaliyan,H1,H2,Jl. Prof. Dr. Hamka,2503.0,Baik
+ngaliyan,H2,H3,Jl. Kemantren,467.0,Rusak Ringan
+ngaliyan,H2,H4,Jl. Rowosari 1,956.0,Sedang
+ngaliyan,H2,H5,Jl. Plumbon 3,794.0,Sedang
+ngaliyan,H2,H3,Jl. Purwoyoso 1,464.0,Sedang
+ngaliyan,H3,H6,Jl. Sriwidodo Selatan,534.0,Rusak Ringan
+ngaliyan,H3,H4,Jl. Srikaton Tengah,308.0,Sedang
+ngaliyan,H3,H7,Jl. Srikaton Barat 2,71.0,Rusak Ringan
+ngaliyan,H4,H8,Jl. Srikaton,420.0,Sedang
+ngaliyan,H4,H9,Jl. Palir,2638.0,Sedang
+ngaliyan,H5,H6,Jl. Koptu Suyono,3238.0,Sedang
+ngaliyan,H5,H10,Jl. Gondorio,4452.0,Sedang
+ngaliyan,H6,H11,Jl. Kyai Padak,2291.0,Sedang
+ngaliyan,H7,H11,Jl. Mr. Moch Ichsan,3034.0,Baik
+ngaliyan,H7,H8,Jl. KRT Wongsonegoro,3119.0,Sedang
+ngaliyan,H7,H12,Jl. Tambak Aji,1014.0,Sedang
+ngaliyan,H8,H13,Jl. Jambu,546.0,Baik
+ngaliyan,H8,H9,Jl. Gondorio - Beringin (Bukit Gondorio),1607.0,Baik
+ngaliyan,H9,H14,Jl. Jludang,1484.0,Baik
+ngaliyan,H10,H15,Jl. Kalikangkung,2124.0,Sedang
+ngaliyan,H10,H11,Jl. Wates,1735.0,Sedang
+ngaliyan,H11,H12,Jl. Gatot Subroto,2984.0,Sedang
+ngaliyan,H12,H13,Jl. Wisma Sari,389.0,Sedang
+ngaliyan,H13,H16,Jl. Honggowongso,1913.0,Sedang
+ngaliyan,H11,H15,Jl. Wisma Sari Selatan,482.0,Sedang
+ngaliyan,H12,H15,Jl. Pucung,563.0,Sedang
+ngaliyan,H15,H17,Jl. Karonsih,441.0,Baik
+ngaliyan,H15,H16,Jl. Candi Prambanan,770.0,Baik
+ngaliyan,H12,H16,Jl. Panembahan Senopati,1256.0,Baik
+ngaliyan,H10,H17,Jl. Wisma Sari Utara,218.0,Sedang
+ngaliyan,H15,H17,Jl. Karonsih Selatan,250.0,Rusak Ringan
+ngaliyan,H15,H18,Jl. Candi Pawon Selatan 10,153.0,Sedang
+ngaliyan,H17,H18,Jl. Candi Pawon Selatan 9,200.0,Sedang
+ngaliyan,H16,H19,Jl. Srikaton Timur 1,579.0,Sedang
+ngaliyan,H18,H19,Jl. Srikaton Utara 4,68.0,Sedang
+ngaliyan,H15,H19,Jl. Kaliancar,919.0,Baik
+ngaliyan,H3,H8,Jl. Candi Penataran,546.0,Sedang
+pedurungan,I1,I2,Jl. Soekarno - Hatta,5242.0,Baik
+pedurungan,I2,I3,Jl. Parang Kembang,337.0,Baik
+pedurungan,I2,I4,Jl. Parang Barong,495.0,Sedang
+pedurungan,I2,I5,Jl. Sendang Sari Utara,284.0,Sedang
+pedurungan,I2,I6,Jl. Singa Utara,596.0,Baik
+pedurungan,I2,I3,Jl. Tlogosari,3697.0,Baik
+pedurungan,I3,I7,Jl. Gajah Birowo,356.0,Sedang
+pedurungan,I3,I4,Jl. Karangingas,616.0,Baik
+pedurungan,I4,I8,Jl. Parang Kusumo,389.0,Baik
+pedurungan,I4,I9,Jl. Satrio Wibowo 1,613.0,Baik
+pedurungan,I5,I9,Jl. Sendang Utara,322.0,Baik
+pedurungan,I6,I10,Jl. Lumbungsari,365.0,Baik
+pedurungan,I6,I11,Jl. Sendangguwo,364.0,Baik
+pedurungan,I7,I11,Jl. Singa,215.0,Sedang
+pedurungan,I7,I8,Jl. Muwardi Timur,452.0,Baik
+pedurungan,I8,I11,Jl. Supriyadi,1680.0,Baik
+pedurungan,I8,I12,Jl. Karanganyar Barat,441.0,Sedang
+pedurungan,I8,I9,Jl. Malangsari,655.0,Sedang
+pedurungan,I8,I13,Jl. Sendang Sari Utara 1,174.0,Baik
+pedurungan,I9,I13,Jl. Muwardi,750.0,Sedang
+pedurungan,I10,I15,Jl. Kalicari Barat,314.0,Baik
+pedurungan,I10,I11,Jl. Parang Kesit,212.0,Sedang
+pedurungan,I10,I16,Jl. Sendang Utara 3,1422.0,Sedang
+pedurungan,I11,I16,Jl. Dempel Kidul,399.0,Baik
+pedurungan,I11,I17,Jl. Dempel Lor,1376.0,Sedang
+pedurungan,I11,I12,Jl. Fatmawati,2810.0,Baik
+pedurungan,I12,I17,Jl. Sapta Prasetya Selatan,229.0,Baik
+pedurungan,I12,I14,Jl. Karanglo 1,613.0,Sedang
+pedurungan,I13,I14,Jl. Blancir,2451.0,Baik
+pedurungan,I14,I18,Jl. Palebon,851.0,Baik
+pedurungan,I15,I16,Jl. Kyai Morang,2182.0,Sedang
+pedurungan,I15,I19,Jl. Karanganyar Timur,453.0,Sedang
+pedurungan,I15,I20,Jl. K.H. Thohir,2252.0,Baik
+pedurungan,I16,I17,Jl. Taman Majapahit,936.0,Rusak Ringan
+pedurungan,I16,I20,Jl. Tlogo Putri,221.0,Baik
+pedurungan,I17,I20,Jl. Tlogo Sarangan,296.0,Baik
+pedurungan,I17,I20,Jl. Tlogo Intan,187.0,Sedang
+pedurungan,I17,I21,Jl. Karanglo,440.0,Baik
+pedurungan,I18,I21,Jl. Sapta Prasetya Barat 1,441.0,Baik
+pedurungan,I18,I22,Jl. Sapta Prasetya,394.0,Baik
+pedurungan,I19,I20,Jl. Sapta Prasetya Utara,375.0,Sedang
+pedurungan,I19,I23,Jl. Kukilo Mukti,247.0,Baik
+pedurungan,I20,I23,Jl. Suhada,2002.0,Baik
+pedurungan,I20,I21,Jl. Kyai Abdul Manan,827.0,Sedang
+pedurungan,I21,I23,Jl. Bugen,410.0,Sedang
+pedurungan,I21,I24,Jl. Pedurungan Tengah,772.0,Baik
+pedurungan,I21,I25,Jl. Pedurungan Tengah 4,383.0,Baik
+pedurungan,I21,I22,Jl. Plamongan Permai 4,257.0,Baik
+pedurungan,I22,I25,Jl. Plamongan Elok,334.0,Baik
+pedurungan,I23,I24,Jl. Taman Liman Mukti 2,137.0,Baik
+pedurungan,I24,I25,Jl. Plamongan,277.0,Baik
+pedurungan,I19,I26,Jl. Zebra Tengah,525.0,Sedang
+pedurungan,I23,I26,Jl. Purwomukti,874.0,Sedang
+pedurungan,I23,I27,Jl. Wanara Timur,163.0,Baik
+pedurungan,I23,I28,Jl. Taman Tlogomulyo,499.0,Baik
+pedurungan,I24,I28,Jl. Tanjungsari 1,144.0,Sedang
+pedurungan,I24,I29,Jl. Sunan Kalijaga,1552.0,Baik
+pedurungan,I25,I29,Jl. Parang Klitik,215.0,Baik
+pedurungan,I25,I30,Jl. Gemah Selatan 2,215.0,Baik
+pedurungan,I26,I31,Jl. Udan Riris 1,388.0,Sedang
+pedurungan,I26,I27,Jl. Graha Mukti,387.0,Sedang
+pedurungan,I27,I31,Jl. Tlogo Berlian,88.0,Sedang
+pedurungan,I27,I32,Jl. Nogososro,737.0,Baik
+pedurungan,I27,I28,Jl. Turangga Timur,178.0,Baik
+pedurungan,I28,I32,Jl. Tanggul Asri,943.0,Sedang
+pedurungan,I28,I29,Jl. Gemah Timur,236.0,Baik
+pedurungan,I29,I32,Jl. Gemah,487.0,Baik
+pedurungan,I29,I30,Jl. Kalicari Timur,288.0,Baik
+pedurungan,I30,I33,Jl. Sendangguwo Baru,370.0,Baik
+pedurungan,I31,I34,Jl. Gemah 5,228.0,Baik
+pedurungan,I31,I32,Jl. Kyai Syakir,934.0,Baik
+pedurungan,I32,I35,Jl. Arya Mukti Utara,720.0,Sedang
+pedurungan,I32,I33,Jl. Plamongan Indah,671.0,Baik
+pedurungan,I32,I36,Jl. Plamongan Elok 7,261.0,Sedang
+pedurungan,I33,I36,Jl. Margisari,185.0,Baik
+pedurungan,I33,I35,Jl. Liman Mukti,131.0,Baik
+pedurungan,I34,I35,Jl. Zebra Tengah 4,159.0,Baik
+pedurungan,I35,I36,Jl. Sapen,865.0,Baik
+pedurungan,I34,I37,Jl. Parang Sarpo,233.0,Baik
+pedurungan,I34,I38,Jl. Parang Baris,221.0,Baik
+pedurungan,I34,I39,Jl. Tirto Mukti Timur,163.0,Sedang
+pedurungan,I35,I38,Jl. Arya Mukti,873.0,Sedang
+pedurungan,I35,I39,Jl. Kudan,810.0,Sedang
+pedurungan,I35,I40,Jl. Tlogotimun,387.0,Baik
+pedurungan,I36,I40,Jl. Taman Suryo Kusumo 1,377.0,Baik
+pedurungan,I36,I41,Jl. Taman Suryo Kusumo 2,76.0,Baik
+pedurungan,I37,I38,Jl. Sidodrajat 1,38.0,Baik
+pedurungan,I38,I39,Jl. Sidomulyo 1,37.0,Baik
+pedurungan,I39,I40,Jl. Taman Suryo Kusumo 4,376.0,Baik
+semarang barat,J1,J2,Jl. Anjasmoro,2347.0,Sedang
+semarang barat,J2,J3,Jl. Borobudur,1096.0,Sedang
+semarang barat,J2,J4,Jl. Sri Kuncoro 3,616.0,Sedang
+semarang barat,J2,J5,Jl. Sri Rejeki Dalam,687.0,Baik
+semarang barat,J3,J6,Jl. Wologito Tengah,459.0,Sedang
+semarang barat,J6,J11,Jl. Subali,785.0,Sedang
+semarang barat,J6,J7,Jl. Dr. Suratmo,2308.0,Baik
+semarang barat,J11,J7,Jl. Abdulrachman Saleh,3597.0,Baik
+semarang barat,J11,J26,Jl. Hanoman,1017.0,Baik
+semarang barat,J26,J25,Jl. Sriwibowo,278.0,Sedang
+semarang barat,J25,J27,Jl. Hilir,1013.0,Sedang
+semarang barat,J25,J24,Jl. Muradi,1137.0,Baik
+semarang barat,J25,J12,Jl. Sri Kuncoro Utara 3,196.0,Sedang
+semarang barat,J27,J28,Jl. Rorojonggrang,693.0,Sedang
+semarang barat,J28,J24,Jl. Ariloka,797.0,Sedang
+semarang barat,J28,J23,Jl. Puspogiwang Barat,492.0,Sedang
+semarang barat,J28,J29,Jl. Puspowarno,962.0,Baik
+semarang barat,J29,J30,Jl. Puspanjolo Selatan,741.0,Sedang
+semarang barat,J4,J7,Jl. Puspanjolo Tengah,702.0,Sedang
+semarang barat,J4,J8,Jl. Kenconowungu Tengah 1,417.0,Sedang
+semarang barat,J8,J12,Jl. Puspanjolo Barat,1305.0,Baik
+semarang barat,J8,J13,Jl. Pusponjolo Barat 14,847.0,Rusak Ringan
+semarang barat,J8,J14,Jl. Sri Rejeki 1,362.0,Sedang
+semarang barat,J8,J9,Jl. Puspogiwang,386.0,Baik
+semarang barat,J7,J12,Jl. Puspowarno 1,256.0,Sedang
+semarang barat,J12,J24,Jl. Puspowarno Tengah 1,359.0,Sedang
+semarang barat,J13,J22,Jl. Puspowarno Tengah 2,337.0,Baik
+semarang barat,J22,J21,Jl. Puspowarno Tengah,684.0,Sedang
+semarang barat,J22,J23,Jl. Cakrawala,232.0,Baik
+semarang barat,J23,J30,Jl. Ronggolawe Selatan,335.0,Baik
+semarang barat,J30,J31,Jl. Puspowarno Selatan,981.0,Rusak Ringan
+semarang barat,J23,J31,Jl. Mintojiwo Dalam,297.0,Sedang
+semarang barat,J5,J10,Jl. Kumudasmoro,971.0,Baik
+semarang barat,J5,J9,Jl. Sawojajar,709.0,Baik
+semarang barat,J9,J14,Jl. Anjasmoro 4,209.0,Baik
+semarang barat,J14,J20,Jl. Ronggolawe Timur,466.0,Baik
+semarang barat,J20,J21,Jl. Kenconowungu 1,425.0,Rusak Ringan
+semarang barat,J20,J33,Jl. Anjasmoro 1,228.0,Baik
+semarang barat,J21,J13,Jl. Jembawan,654.0,Sedang
+semarang barat,J21,J31,Jl. Menuju Maron,3659.0,Rusak Berat
+semarang barat,J21,J33,Jl. W. R. Supratman,2125.0,Baik
+semarang barat,J31,J32,Jl. Aribuana,450.0,Sedang
+semarang barat,J33,J32,Jl. Ronggolawe,493.0,Baik
+semarang barat,J10,J15,Jl. Pamularsih,1922.0,Baik
+semarang barat,J10,J16,Jl. Simongan,2409.0,Baik
+semarang barat,J10,J15,Jl. Ngemplak Simongan,507.0,Sedang
+semarang barat,J9,J15,Jl. Damar Wulan 2,634.0,Sedang
+semarang barat,J16,J15,Jl. Kenconowungu,873.0,Baik
+semarang barat,J16,J17,Jl. Semarang Indah Blok-C,381.0,Sedang
+semarang barat,J15,J20,Jl. Damarwulan,414.0,Baik
+semarang barat,J17,J18,Jl. Mintojiwo,605.0,Sedang
+semarang barat,J18,J15,Jl. Sri Rejeki,582.0,Sedang
+semarang barat,J15,J19,Jl. Amarta,390.0,Baik
+semarang barat,J19,J33,Jl. Cokrokembang,336.0,Baik
+semarang barat,J19,J35,Jl. Cempolorejo,363.0,Sedang
+semarang barat,J18,J19,Jl. Semarang Indah Blok D-E,387.0,Sedang
+semarang barat,J19,J34,Jl. Srinindito,499.0,Baik
+semarang barat,J33,J34,Jl. Gedongsongo Timur,625.0,Sedang
+semarang barat,J35,J34,Jl. Srinindito Selatan,222.0,Baik
+semarang barat,J29,J36,Jl. Taman Condro Kusumo,379.0,Sedang
+semarang barat,J36,J37,Jl. Semarang Indah Blok D-V,428.0,Sedang
+semarang barat,J30,J36,Jl. Sri Rejeki Utara,325.0,Sedang
+semarang barat,J36,J38,Jl. Gedongsongo,450.0,Sedang
+semarang barat,J31,J37,Jl. Rorojonggrang 1,639.0,Sedang
+semarang barat,J37,J38,Jl. Condro Kusumo 1,358.0,Sedang
+semarang barat,J31,J39,Jl. Condro Kusumo,358.0,Sedang
+semarang barat,J32,J39,Jl. Simongan Ringin Telu,979.0,Sedang
+semarang barat,J32,J40,Jl. Madukoro Blok Aa-Bb,747.0,Rusak Ringan
+semarang barat,J41,J40,Jl. Tri Tunggal,654.0,Sedang
+semarang barat,J34,J41,Jl. Madukoro,2704.0,Baik
+semarang barat,J41,J42,Jl. Pangk. Puad. A. Yani,779.0,Sedang
+semarang barat,J42,J43,Jl. Kumudasmoro Tengah,414.0,Sedang
+semarang barat,J42,J50,Jl. Madukoro Blok A,557.0,Sedang
+semarang barat,J50,J49,Jl. Kenconowungu Selatan 3,98.0,Sedang
+semarang barat,J50,J45,Jl. Dr. Ismangil,831.0,Baik
+semarang barat,J50,J35,Jl. Puspogiwang Timur,497.0,Sedang
+semarang barat,J34,J50,Jl. Bojong Salaman,1275.0,Sedang
+semarang barat,J18,J47,Jl. Kali Semarang Indah,1165.0,Baik
+semarang barat,J35,J47,Jl. Akses Bandara,1191.0,Baik
+semarang barat,J47,J46,Jl. Puspanjolo Timur,741.0,Rusak Ringan
+semarang barat,J46,J45,Jl. Puspowarno Selatan 3,473.0,Sedang
+semarang barat,J45,J49,Jl. Borobudur Selatan,563.0,Rusak Ringan
+semarang selatan,K1,K2,Jl. A. Yani,1229.0,Baik
+semarang selatan,K2,K3,Jl. Pandanaran,1522.0,Baik
+semarang selatan,K2,K4,Jl. Menteri Supeno,873.0,Baik
+semarang selatan,K2,K5,Jl. Tri Lomba Juang,510.0,Baik
+semarang selatan,K2,K6,Jl. Kyai Saleh,1036.0,Baik
+semarang selatan,K2,K3,Jl. HOS. Cokroaminoto,685.0,Baik
+semarang selatan,K3,K7,Jl. Jayengan,218.0,Sedang
+semarang selatan,K3,K4,Jl. Suyudono,1061.0,Baik
+semarang selatan,K4,K8,Jl. Basudewo,1065.0,Baik
+semarang selatan,K4,K5,Jl. Kaligarang,1271.0,Baik
+semarang selatan,K5,K9,Jl. Dr. Kariadi,732.0,Baik
+semarang selatan,K5,K10,Jl. Mugas Dalam,565.0,Sedang
+semarang selatan,K6,K11,Jl. Bergota Talang,882.0,Sedang
+semarang selatan,K6,K7,Jl. Yogya,292.0,Sedang
+semarang selatan,K7,K12,Jl. Kalisari Baru,359.0,Sedang
+semarang selatan,K7,K8,Jl. Penaton,166.0,Baik
+semarang selatan,K8,K13,Jl. Gisik Sari,241.0,Baik
+semarang selatan,K8,K9,Jl. Bendungan,558.0,Baik
+semarang selatan,K9,K14,Jl. Kedungjati,428.0,Sedang
+semarang selatan,K9,K10,Jl. Mugas Dalam 10,185.0,Sedang
+semarang selatan,K10,K15,Jl. Taman Menteri Supeno,462.0,Baik
+semarang selatan,K10,K21,Jl. Gergaji 5,111.0,Sedang
+semarang selatan,K21,K22,Jl. Gergaji,379.0,Sedang
+semarang selatan,K21,K24,Jl. Solo,192.0,Sedang
+semarang selatan,K11,K16,Jl. HOS. Cokroaminoto - Kesdam,245.0,Baik
+semarang selatan,K11,K12,Jl. Menteri Supeno 1,234.0,Sedang
+semarang selatan,K12,K17,Jl. Wonodri Krajan,579.0,Baik
+semarang selatan,K12,K13,Jl. Singosari,934.0,Baik
+semarang selatan,K13,K18,Jl. Sompok,824.0,Baik
+semarang selatan,K13,K14,Jl. Nangka Timur,374.0,Sedang
+semarang selatan,K14,K19,Jl. Lamper Tengah 9,720.0,Sedang
+semarang selatan,K14,K15,Jl. Erlangga Tengah,597.0,Baik
+semarang selatan,K15,K20,Jl. Erlangga Barat 7,440.0,Baik
+semarang selatan,K15,K22,Jl. Erlangga Barat 1,200.0,Sedang
+semarang selatan,K22,K23,Jl. Peterongan,497.0,Baik
+semarang selatan,K22,K25,Jl. Kusumawardani,316.0,Baik
+semarang selatan,K24,K25,Jl. Singosari 2,217.0,Sedang
+semarang selatan,K16,K27,Jl. Pleburan Tengah,196.0,Sedang
+semarang selatan,K16,K17,Jl. Singosari 1,465.0,Sedang
+semarang selatan,K17,K28,Jl. Erlangga Selatan,305.0,Baik
+semarang selatan,K17,K18,Jl. Gayam,172.0,Sedang
+semarang selatan,K18,K29,Jl. Siwalan,307.0,Sedang
+semarang selatan,K18,K19,Jl. Singosari Timur,508.0,Baik
+semarang selatan,K19,K30,Jl. Wonodri Sendang,461.0,Sedang
+semarang selatan,K19,K20,Jl. Wonodri Baru,621.0,Baik
+semarang selatan,K20,K31,Jl. Rambutan,445.0,Baik
+semarang selatan,K20,K23,Jl. Manggis 2,333.0,Sedang
+semarang selatan,K23,K32,Jl. Manggis,207.0,Sedang
+semarang selatan,K23,K26,Jl. Jeruk,402.0,Baik
+semarang selatan,K25,K26,Jl. Sompok 2,530.0,Baik
+semarang selatan,K27,K34,Jl. Cempedak Utara,492.0,Sedang
+semarang selatan,K27,K28,Jl. Kedondong Utara,386.0,Sedang
+semarang selatan,K28,K35,Jl. Lamper Mijen Baru,315.0,Sedang
+semarang selatan,K28,K29,Jl. Kedondong Dalam 6,245.0,Sedang
+semarang selatan,K29,K36,Jl. Cempedak,220.0,Sedang
+semarang selatan,K29,K30,Jl. Pisang 1,435.0,Sedang
+semarang selatan,K30,K37,Jl. Cerme Utara,182.0,Sedang
+semarang selatan,K30,K31,Jl. Lamper Tengah 14,416.0,Sedang
+semarang selatan,K31,K38,Jl. Lamper Tengah 10,601.0,Sedang
+semarang selatan,K31,K32,Jl. Lamper Tengah 12,638.0,Sedang
+semarang selatan,K32,K39,Jl. Cerme,251.0,Sedang
+semarang selatan,K32,K33,Jl. Kanal,691.0,Baik
+semarang selatan,K26,K33,Jl. Lamper Tengah,1252.0,Baik
+semarang selatan,K34,K41,Jl. Atmodirono,386.0,Baik
+semarang selatan,K34,K35,Jl. Hayam Wuruk,569.0,Baik
+semarang selatan,K35,K42,Jl. Imam Barjo,919.0,Baik
+semarang selatan,K35,K36,Jl. Lampersari,1006.0,Sedang
+semarang selatan,K36,K43,Jl. Sompok Baru,392.0,Baik
+semarang selatan,K36,K37,Jl. Erlangga,676.0,Baik
+semarang selatan,K37,K44,Jl. Pleburan Barat,586.0,Baik
+semarang selatan,K37,K38,Jl. Lamper Krajan,179.0,Sedang
+semarang selatan,K38,K45,Jl. Jeruk 8,243.0,Sedang
+semarang selatan,K38,K39,Jl. Kertanegara Selatan,547.0,Sedang
+semarang selatan,K39,K46,Jl. Admodirono 1,265.0,Sedang
+semarang selatan,K39,K40,Jl. Lamper Mijen Utara,507.0,Sedang
+semarang selatan,K33,K40,Jl. Durian Barat,375.0,Baik
+semarang selatan,K41,K48,Jl. Lamper Mijen,388.0,Baik
+semarang selatan,K48,K49,Jl. Bunderan Simpang Lima,770.0,Baik
+semarang selatan,K49,K42,Jl. Brigjend. Katamso,591.0,Baik
+semarang selatan,K42,K43,Jl. Bergota Mayat (Atas),270.0,Baik
+semarang selatan,K43,K50,Jl. Pahlawan,1525.0,Baik
+semarang selatan,K50,K51,Jl. Kusumanegara,648.0,Baik
+semarang selatan,K51,K44,Jl. Kusumanegara 1,152.0,Baik
+semarang selatan,K44,K45,Jl. Mugas Barat 4,171.0,Sedang
+semarang tengah,L1,L2,Jl. Gajahmada,1723.0,Baik
+semarang tengah,L2,L3,Jl. Pekunden Timur,633.0,Baik
+semarang tengah,L2,L4,Jl. Seteran Tengah,389.0,Baik
+semarang tengah,L2,L5,Jl. Kokrosono,3048.0,Baik
+semarang tengah,L2,L6,Jl. Pekunden,357.0,Baik
+semarang tengah,L2,L3,Jl. Abimanyu,240.0,Baik
+semarang tengah,L3,L7,Jl. Bedagan,404.0,Baik
+semarang tengah,L3,L4,Jl. Seteran Serut,310.0,Baik
+semarang tengah,L4,L8,Jl. Mayjend. Sutoyo Siswomiharjo,1551.0,Baik
+semarang tengah,L4,L9,Jl. Moch. Suyudi,462.0,Baik
+semarang tengah,L5,L9,Jl. Depok,463.0,Baik
+semarang tengah,L6,L10,Jl. Seteran Barat,281.0,Baik
+semarang tengah,L6,L11,Jl. Kapten Piere Tendean,487.0,Baik
+semarang tengah,L7,L11,Jl. MH. Thamrin,1090.0,Baik
+semarang tengah,L7,L8,Jl. Sadewa 3,46.0,Baik
+semarang tengah,L8,L11,Jl. Gendingan,289.0,Baik
+semarang tengah,L8,L12,Jl. Tanjung,476.0,Baik
+semarang tengah,L8,L9,Jl. Indraprasta,1092.0,Baik
+semarang tengah,L8,L13,Jl. Bima,709.0,Baik
+semarang tengah,L9,L13,Jl. Imam Bonjol,2387.0,Baik
+semarang tengah,L10,L15,Jl. Arjuna,515.0,Baik
+semarang tengah,L10,L11,Jl. Yudistira,270.0,Baik
+semarang tengah,L10,L16,Jl. Pandanaran 1,306.0,Baik
+semarang tengah,L11,L16,Jl. Saidan,226.0,Sedang
+semarang tengah,L11,L17,Jl. Ade Irma Suryani Nasution,530.0,Sedang
+semarang tengah,L11,L12,Jl. Simpang,246.0,Baik
+semarang tengah,L12,L17,Jl. Inspeksi Kali Semarang,7253.0,Sedang
+semarang tengah,L12,L14,Jl. K.H.A. Dahlan,705.0,Baik
+semarang tengah,L13,L14,Jl. Wot Gandul Dalam,325.0,Baik
+semarang tengah,L14,L18,Jl. Gang Gambiran,315.0,Baik
+semarang tengah,L15,L16,Jl. Gang Belakang,337.0,Sedang
+semarang tengah,L15,L19,Jl. Seroja Timur,599.0,Baik
+semarang tengah,L15,L20,Jl. Wot Gandul Timur,407.0,Sedang
+semarang tengah,L16,L17,Jl. Kemuning,265.0,Baik
+semarang tengah,L16,L20,Jl. Taman Seteran Baru,366.0,Baik
+semarang tengah,L17,L20,Jl. Melati Selatan,226.0,Baik
+semarang tengah,L17,L20,Jl. Karangwulan,235.0,Baik
+semarang tengah,L17,L21,Jl. Sebandaran,140.0,Sedang
+semarang tengah,L18,L21,Jl. Seroja 1,235.0,Baik
+semarang tengah,L18,L22,Jl. Petolongan,326.0,Baik
+semarang tengah,L19,L20,Jl. Kepodang,328.0,Sedang
+semarang tengah,L19,L23,Jl. K.H. Agus Salim,904.0,Sedang
+semarang tengah,L20,L23,Jl. Pekojan,425.0,Baik
+semarang tengah,L20,L21,Jl. Ki Mangunsarkoro,1812.0,Baik
+semarang tengah,L21,L23,Jl. Gang Warung,361.0,Baik
+semarang tengah,L21,L24,Jl. K.H. Wahid Hasyim,531.0,Baik
+semarang tengah,L21,L25,Jl. Gang Pinggir,480.0,Sedang
+semarang tengah,L21,L22,Jl. Cenderawasih,463.0,Baik
+semarang tengah,L22,L25,Jl. Jagalan Barat,219.0,Sedang
+semarang tengah,L23,L24,Jl. Brumbungan,563.0,Baik
+semarang tengah,L24,L25,Jl. Anggrek,339.0,Baik
+semarang tengah,L19,L26,Jl. Beteng,407.0,Baik
+semarang tengah,L23,L26,Jl. Gang Tengah,366.0,Sedang
+semarang tengah,L23,L27,Jl. Gang Baru,423.0,Baik
+semarang tengah,L23,L28,Jl. Karanganyar,622.0,Baik
+semarang tengah,L24,L28,Jl. Pringgading,286.0,Baik
+semarang tengah,L24,L29,Jl. Jagalan Timur,282.0,Sedang
+semarang tengah,L25,L29,Jl. Karangsaru,276.0,Sedang
+semarang tengah,L25,L30,Jl. Stadion Selatan,283.0,Baik
+semarang tengah,L26,L31,Jl. Stadion Utara,269.0,Baik
+semarang tengah,L26,L27,Jl. Kauman,403.0,Baik
+semarang tengah,L27,L31,Jl. Pedamaran,398.0,Sedang
+semarang tengah,L27,L32,Jl. Kenari,228.0,Sedang
+semarang tengah,L27,L28,Jl. Gelatik,96.0,Baik
+semarang tengah,L28,L32,Jl. Dahlia Selatan,78.0,Baik
+semarang tengah,L28,L29,Jl. Dahlia Utara,79.0,Baik
+semarang tengah,L29,L32,Jl. Melati Utara,221.0,Baik
+semarang tengah,L29,L30,Jl. Pasar Baru,76.0,Baik
+semarang tengah,L30,L33,Jl. Plampitan,360.0,Sedang
+semarang tengah,L31,L34,Jl. Stadion Barat,305.0,Rusak Ringan
+semarang tengah,L31,L32,Jl. Kanjengan,364.0,Rusak Ringan
+semarang tengah,L32,L35,Jl. Petudungan,320.0,Baik
+semarang tengah,L32,L33,Jl. Stadion Timur,262.0,Baik
+semarang tengah,L32,L36,Jl. Seteran Dalam,103.0,Baik
+semarang tengah,L33,L36,Jl. Gang Besen,399.0,Baik
+semarang tengah,L33,L35,Jl. Gang Mangkok,82.0,Baik
+semarang tengah,L34,L35,Jl. Letjen Suprapto,670.0,Baik
+semarang tengah,L35,L36,Jl. Mayjend. D.I. Panjaitan,1549.0,Baik
+semarang tengah,L34,L37,Jl. Seroja Dalam,346.0,Baik
+semarang tengah,L34,L38,Jl. Seroja Selatan,568.0,Baik
+semarang tengah,L34,L39,Jl. Beringin,199.0,Baik
+semarang tengah,L35,L38,Jl. Batan Selatan,384.0,Baik
+semarang tengah,L35,L39,Jl. Pekunden Tengah,388.0,Baik
+semarang tengah,L35,L40,Jl. Alun-Alun Barat,217.0,Sedang
+semarang tengah,L36,L40,Jl. Kol. Sugiyono,632.0,Baik
+semarang tengah,L37,L40,Jl. Pemuda,2756.0,Baik
+semarang timur,M1,M2,Jl. M.T. Haryono,3495.0,Baik
+semarang timur,M2,M3,Jl. Halmahera,582.0,Baik
+semarang timur,M2,M4,Jl. Maluku,497.0,Baik
+semarang timur,M2,M5,Jl. Panca Karya,623.0,Baik
+semarang timur,M2,M3,Jl. Tirtyoso Tengah,538.0,Sedang
+semarang timur,M3,M6,Jl. Mlaten Trenggulun,601.0,Baik
+semarang timur,M3,M4,Jl. Sedompyong,1250.0,Sedang
+semarang timur,M3,M7,Jl. Ligu Tengah,374.0,Sedang
+semarang timur,M4,M8,Jl. Senjoyo,507.0,Sedang
+semarang timur,M4,M9,Jl. Progo 5,252.0,Sedang
+semarang timur,M5,M6,Jl. Progo 1,142.0,Sedang
+semarang timur,M5,M10,Jl. Mlatiharjo,354.0,Baik
+semarang timur,M6,M11,Jl. Dargo,408.0,Sedang
+semarang timur,M7,M11,Jl. Citandui Selatan,547.0,Sedang
+semarang timur,M7,M8,Jl. Bugangan,592.0,Baik
+semarang timur,M7,M12,Jl. Barito,4150.0,Baik
+semarang timur,M8,M13,Jl. Citarum,1312.0,Baik
+semarang timur,M8,M9,Jl. Tirpo Purwosari,516.0,Baik
+semarang timur,M9,M14,Jl. Sidodadi Barat,291.0,Sedang
+semarang timur,M10,M15,Jl. Manisharjo,231.0,Sedang
+semarang timur,M10,M11,Jl. Rejomulyo Barat,255.0,Sedang
+semarang timur,M11,M12,Jl. Sidorejo,444.0,Baik
+semarang timur,M12,M13,Jl. Sidodadi Timur,279.0,Sedang
+semarang timur,M13,M16,Jl. Karimata,530.0,Baik
+semarang timur,M11,M15,Jl. Purwosari,1092.0,Baik
+semarang timur,M12,M15,Jl. Musi,360.0,Sedang
+semarang timur,M15,M17,Jl. Taman Progo,79.0,Baik
+semarang timur,M15,M16,Jl. Pondok Pati,243.0,Sedang
+semarang timur,M12,M16,Jl. Pattimura,321.0,Sedang
+semarang timur,M10,M17,Jl. Citandui 3,230.0,Sedang
+semarang timur,M15,M17,Jl. Citandui,536.0,Baik
+semarang timur,M15,M18,Jl. Rejo Leksono 1,240.0,Sedang
+semarang timur,M17,M18,Jl. Indragiri,1703.0,Sedang
+semarang timur,M16,M19,Jl. Hawa,495.0,Baik
+semarang timur,M18,M19,Jl. Krakatau,467.0,Baik
+semarang timur,M15,M19,Jl. Labuan,468.0,Sedang
+semarang timur,M3,M8,Jl. Cilosari,1083.0,Sedang
+semarang timur,M19,M20,Jl. Raden Patah,237.0,Baik
+semarang timur,M18,M20,Jl. Kartini,1863.0,Baik
+semarang timur,M20 ,M21,Jl. Citandui 4,151.0,Sedang
+semarang timur,M19,M21,Jl. Bugangan Regol,376.0,Sedang
+semarang utara,N1,N2,Jl. Tanjungmas,1622.0,Baik
+semarang utara,N2,N3,Jl. Dorang,610.0,Sedang
+semarang utara,N2,N4,Jl. Kakap,846.0,Sedang
+semarang utara,N2,N5,Jl. Lodan,2084.0,Rusak Ringan
+semarang utara,N2,N6,Jl. Mujahir,206.0,Sedang
+semarang utara,N2,N3,Jl. Brotojoyo Utara,1029.0,Rusak Ringan
+semarang utara,N3,N7,Jl. Taman Hasanudin,593.0,Sedang
+semarang utara,N3,N4,Jl. Brotojoyo,1099.0,Baik
+semarang utara,N4,N8,Jl. Kalimas Barat,619.0,Baik
+semarang utara,N4,N5,Jl. Telaga Mas,301.0,Sedang
+semarang utara,N5,N9,Jl. Peres,501.0,Baik
+semarang utara,N5,N10,Jl. Selo Mas,356.0,Sedang
+semarang utara,N6,N11,Jl. Sumber Mas,541.0,Sedang
+semarang utara,N6,N7,Jl. Tanggul Mas,481.0,Sedang
+semarang utara,N7,N12,Jl. Muara Mas,623.0,Sedang
+semarang utara,N7,N8,Jl. Brotojoyo 5,282.0,Baik
+semarang utara,N8,N13,Jl. Kuala Mas,597.0,Baik
+semarang utara,N8,N9,Jl. Brotojoyo 2,1046.0,Sedang
+semarang utara,N9,N14,Jl. Gondomono,555.0,Baik
+semarang utara,N9,N10,Jl. Petek,791.0,Baik
+semarang utara,N10,N15,Jl. Cumi-Cumi,801.0,Sedang
+semarang utara,N10,N21,Jl. Hassanudin,2027.0,Baik
+semarang utara,N21,N22,Jl. Yos Sudarso Kalibaru Barat,1171.0,Sedang
+semarang utara,N21,N24,Jl. Pasir Mas,628.0,Sedang
+semarang utara,N11,N16,Jl. Tambra,292.0,Baik
+semarang utara,N11,N12,Jl. Tambak Mas,369.0,Sedang
+semarang utara,N12,N17,Jl. Patriot,319.0,Baik
+semarang utara,N12,N13,Jl. Hassanudin Rusunawa,526.0,Rusak Ringan
+semarang utara,N13,N18,Jl. Satria Utara,463.0,Baik
+semarang utara,N13,N14,Jl. Brotojoyo Timur,165.0,Sedang
+semarang utara,N14,N19,Jl. Empu Tantular,1347.0,Baik
+semarang utara,N14,N15,Jl. Tawang 1,547.0,Baik
+semarang utara,N15,N20,Jl. Bandarharjo,444.0,Sedang
+semarang utara,N15,N22,Jl. Tambakrejo Makam,1421.0,Rusak Ringan
+semarang utara,N22,N23,Jl. Branjangan,271.0,Baik
+semarang utara,N22,N25,Jl. Taman Garuda,203.0,Baik
+semarang utara,N24,N25,Jl. Kedasih,279.0,Sedang
+semarang utara,N16,N27,Jl. Kapten Wiratno,880.0,Sedang
+semarang utara,N16,N17,Jl. Ronggowarsito 2,350.0,Sedang
+semarang utara,N17,N28,Jl. Kebonharjo,111.0,Baik
+semarang utara,N17,N18,Jl. Kuala Mas 2,99.0,Sedang
+semarang utara,N18,N29,Jl. Tambakrejo Tanggul,1453.0,Rusak Berat
+semarang utara,N18,N19,Jl. Ronggowarsito,1664.0,Baik
+semarang utara,N19,N30,Jl. Sleko,694.0,Sedang
+semarang utara,N19,N20,Jl. Tambakmulyo Tanjungmas,859.0,Baik
+semarang utara,N20,N31,Jl. Sendowo Barat,219.0,Sedang
+semarang utara,N20,N23,Jl. Nuri,148.0,Sedang
+semarang utara,N23,N32,Jl. Sendowo Timur,311.0,Baik
+semarang utara,N23,N26,Jl. Garuda,158.0,Baik
+semarang utara,N25,N26,Jl. Poncol,133.0,Sedang
+semarang utara,N27,N34,Jl. Merak,580.0,Sedang
+semarang utara,N27,N28,Jl. Boom Lama Tanggul 2,1101.0,Sedang
+semarang utara,N28,N35,Jl. Boom Lama,973.0,Baik
+semarang utara,N28,N29,Jl. Kali Baru,852.0,Baik
+semarang utara,N29,N36,Jl. Layur,430.0,Sedang
+semarang utara,N29,N30,Jl. Layur 1,202.0,Rusak Ringan
+tembalang,O1,O2,Jl. Kedungmundu,3.878,Baik
+tembalang,O2,O3,Jl. Rejosari,709.0,Baik
+tembalang,O2,O4,Jl. Nilam,256.0,Sedang
+tembalang,O2,O5,Jl. Sambiroto 4,606.0,Baik
+tembalang,O2,O6,Jl. Kompol R. Soekanto,4052.0,Sedang
+tembalang,O2,O3,"Jl. Kol. H. Iman Soeparto Tjakrajoeda, SH",4208.0,Baik
+tembalang,O3,O7,Jl. Bukit Cemara Mustika,246.0,Sedang
+tembalang,O3,O4,Jl. Elang,1496.0,Baik
+tembalang,O4,O8,Jl. Sambiroto 7,233.0,Sedang
+tembalang,O4,O5,Jl. Karanggawang,1069.0,Baik
+tembalang,O5,O9,Jl. Mangunharjo 1,1811.0,Sedang
+tembalang,O5,O10,Jl. Sambiroto 3,601.0,Sedang
+tembalang,O6,O11,Jl. Mulawarman Barat 2,472.0,Sedang
+tembalang,O6,O7,Jl. Salak,316.0,Baik
+tembalang,O7,O12,Jl. Sendangguwo Selatan 9,500.0,Baik
+tembalang,O7,O8,Jl. Sambiroto Asri Barat,986.0,Sedang
+tembalang,O8,O13,Jl. Gondang,119.0,Sedang
+tembalang,O8,O9,Jl. Sipodang,358.0,Baik
+tembalang,O9,O14,Jl. Timoho 1,387.0,Baik
+tembalang,O9,O10,Jl. Tembalang Baru,304.0,Sedang
+tembalang,O10,O15,Jl. Gerung Sari 1,236.0,Baik
+tembalang,O10,O21,Jl. Perum Diponegoro,973.0,Sedang
+tembalang,O21,O22,Jl. Tamtama Timur Dalam,318.0,Baik
+tembalang,O21,O24,Jl. Jangli Gabeng,1563.0,Sedang
+tembalang,O11,O16,Jl. Salak 1,337.0,Baik
+tembalang,O11,O12,Jl. Sawi 9,294.0,Baik
+tembalang,O12,O17,Jl. K.H. Sirajudin,431.0,Baik
+tembalang,O12,O13,Jl. Mulawarman 5,266.0,Sedang
+tembalang,O13,O18,Jl. Banyuputih,1076.0,Baik
+tembalang,O13,O14,Jl. Rogojembangan,629.0,Sedang
+tembalang,O14,O19,Jl. Saputan,644.0,Sedang
+tembalang,O14,O15,Jl. Gayam Sari Selatan,447.0,Baik
+tembalang,O15,O20,Jl. Sendangguwo Selatan,696.0,Baik
+tembalang,O15,O22,Jl. Lobak 2,253.0,Sedang
+tembalang,O22,O23,Jl. Lembayung,276.0,Baik
+tembalang,O22,O25,Jl. Sawi,518.0,Baik
+tembalang,O24,O25,Jl. Bukit Cemara Mustika 6,185.0,Baik
+tembalang,O16,O27,Jl. Timoho Barat 3,174.0,Sedang
+tembalang,O16,O17,Jl. Ngemplak,222.0,Sedang
+tembalang,O17,O28,Jl. Karanggawang Barat,604.0,Baik
+tembalang,O17,O18,Jl. Banteng,1243.0,Sedang
+tembalang,O18,O29,Jl. Jangli Gabeng 3,371.0,Baik
+tembalang,O18,O19,Jl. Sambiroto 5,451.0,Sedang
+tembalang,O19,O30,Jl. Tembalang Baru 4,362.0,Baik
+tembalang,O19,O20,Jl. Genting 2,549.0,Baik
+tembalang,O20,O31,Jl. Genting 1,601.0,Sedang
+tembalang,O20,O23,Jl. Rowo Tengah,407.0,Baik
+tembalang,O23,O32,Jl. Tampirejo 2,410.0,Baik
+tembalang,O23,O26,Jl. Kedung Winong,827.0,Baik
+tembalang,O25,O26,Jl. Sinar Mulyo,278.0,Sedang
+tembalang,O27,O34,Jl. Elangsari Timur,761.0,Baik
+tembalang,O27,O28,Jl. Elangsari,276.0,Sedang
+tembalang,O28,O35,Jl. Berlian,385.0,Baik
+tembalang,O28,O29,Jl. Bulusan Utara,477.0,Sedang
+tembalang,O29,O36,Jl. Banteng 3,683.0,Baik
+tembalang,O29,O30,Jl. Timoho Timur 4,119.0,Sedang
+tembalang,O30,O37,Jl. Banjarsari Barat,621.0,Sedang
+tembalang,O30,O31,Jl. Bayem,243.0,Baik
+tembalang,O31,O38,Jl. Prof. Suharso,277.0,Baik
+tembalang,O31,O32,Jl. Klipang Timur,1319.0,Baik
+tembalang,O32,O39,Jl. Bukit Kelapa Sawit 8,380.0,Baik
+tembalang,O32,O33,Jl. Kampung Dadapan,931.0,Baik
+tembalang,O26,O33,Jl. Bukit Bougenvile,129.0,Sedang
+tembalang,O34,O41,Jl. Sinar Waluyo,678.0,Baik
+tembalang,O34,O35,Jl. Sinar Mukti,270.0,Sedang
+tembalang,O35,O42,Jl. Tulus,918.0,Baik
+tembalang,O35,O36,Jl. Ketileng Indah 1,426.0,Baik
+tembalang,O36,O43,Jl. Ketileng Indah Blok M,237.0,Baik
+tembalang,O36,O37,Jl. Ketileng Puspita,238.0,Baik
+tembalang,O37,O44,Jl. Ketileng Kencana,286.0,Baik
+tembalang,O37,O38,Jl. Ketileng Indah Blok N,177.0,Baik
+tembalang,O38,O45,Jl. Pengkol,2125.0,Baik
+tembalang,O38,O39,Jl. Pengkol 1,349.0,Baik
+tembalang,O39,O46,Jl. Sinar Agung,236.0,Sedang
+tembalang,O39,O40,Jl. Amposari Barat,274.0,Rusak Ringan
+tembalang,O33,O40,Jl. SInar Waluyo Utara,345.0,Baik
+tembalang,O41,O48,Jl. Sinar Gemah Timur,367.0,Sedang
+tembalang,O48,O49,Jl. Muntuksari,747.0,Sedang
+tembalang,O49,O42,Jl. Rowosari,1739.0,Baik
+tembalang,O42,O43,Jl. Gemah Sari 8,240.0,Baik
+tembalang,O43,O50,Jl. Tunggu,377.0,Baik
+tembalang,O50,O51,Jl. Sinar Rembulan,129.0,Sedang
+tembalang,O51,O44,Jl. Durenan,779.0,Baik
+tembalang,O44,O45,Jl. Rowo Tengah 5,432.0,Sedang
+tembalang,O45,O52,Jl. Krajan,774.0,Sedang
+tembalang,O45,O46,Jl. Tampirejo 1,370.0,Baik
+tembalang,O46,O53,Jl. Afa Permai,704.0,Sedang
+tembalang,O46,O47,Jl. Mundu Baru 4,161.0,Sedang
+tembalang,O40,O47,Jl. Perum Wana Mukti,672.0,Sedang
+tembalang,O48,O55,Jl. Dadapan,1012.0,Sedang
+tembalang,O49,O56,Jl. Amposari Tengah,559.0,Sedang
+tembalang,O50,O57,Jl. Gemahsari Permai,461.0,Sedang
+tembalang,O51,O58,Jl. Gemah Sari 13,103.0,Baik
+tembalang,O52,O59,Jl. Gemah Jaya 1,248.0,Sedang
+tembalang,O53,O60,Jl. Amposari,516.0,Baik
+tembalang,O47,O54,Jl. Gemah Jaya,204.0,Sedang
+tembalang,O54,O61,Jl. Klipang Lama,261.0,Baik
+tembalang,O60,O61,Jl. Klipang Golf,950.0,Baik
+tembalang,O55,O62,Jl. Mundu Baru 3,126.0,Sedang
+tembalang,O55,O56,Jl. Sambung,463.0,Baik
+tembalang,O56,O63,Jl. Lobak,413.0,Sedang
+tembalang,O56,O57,Jl. Mulawarman,14.0,Baik
+tembalang,O57,O64,Jl. Pekuncen,856.0,Sedang
+tembalang,O57,O58,"Jl. Prof. H. S. Sudharto, SH",2343.0,Baik
+tembalang,O58,O65,Jl. Perum Dinar Mas,1463.0,Baik
+tembalang,O58,O59,Jl. Ketileng Indah,1278.0,Baik
+tembalang,O59,O66,Jl. Klipang,249.0,Baik
+tembalang,O59,O60,Jl. Tamtama Timur,313.0,Baik
+tembalang,O60,O67,Jl. Gemah Sari,263.0,Sedang
+tembalang,O60,O61,Jl. Mundu Baru 7,183.0,Sedang
+tembalang,O62,O63,Jl. Kedungsari,720.0,Baik
+tembalang,O63,O64,Jl. Tembalang Selatan 7,216.0,Baik
+tugu,P1,P2,Jl. Tugurejo,822.0,Baik
+tugu,P2,P3,Jl. Karanganyar,751.0,Baik
+tugu,P2,P4,Jl. Kauman Randugarut,671.0,Sedang
+tugu,P2,P5,Jl. Mekar,781.0,Sedang
+tugu,P2,P6,Jl. Kyai Gilang,962.0,Rusak Ringan
+tugu,P2,P3,Jl. Kauman Mangkang Wetan,1562.0,Sedang
+tugu,P3,P7,Jl. Mangunharjo (Mangkang Wetan),2623.0,Sedang
+tugu,P3,P4,Jl. Stasiun Mangkang,253.0,Sedang
+tugu,P4,P8,Jl. Pulau Tirang Tapak,2029.0,Sedang
+tugu,P4,P5,Jl. Irigasi Utara (Mangkang Kulon),2271.0,Baik
+tugu,P5,P9,Jl. Stasiun Jrakah,706.0,Sedang
+tugu,P5,P10,Jl. Cisadane,500.0,Rusak Berat
+tugu,P6,P11,Jl. Tapak,865.0,Baik
+tugu,P4,P5,Jl. Irigasi Utara (Mangkang Kulon),2271.0,Baik
+tugu,P5,P9,Jl. Stasiun Jrakah,706.0,Sedang
+tugu,P5,P10,Jl. Cisadane,500.0,Rusak Berat
+tugu,P6,P11,Jl. Tapak,865.0,Baik
